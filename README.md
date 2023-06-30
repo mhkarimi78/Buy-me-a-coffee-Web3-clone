@@ -25,7 +25,7 @@ If you are interested in either of the topics or building in similar skills, con
 
  ![Alt text]( "linkedin") [Connect on Linkedin](https://www.linkedin.com/in/mahsa-karimi-61114b1b9/)
 
- ![Alt text](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F6%2F6f%2FLogo_of_Twitter.svg%2F512px-Logo_of_Twitter.svg.png%3F20220821125553&tbnid=HwHbPW3dYmTKhM&vet=12ahUKEwj4yriD2ur_AhUDgosKHZD8D3EQMygAegUIARDpAQ..i&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALogo_of_Twitter.svg&docid=a1CrifKNjUq-HM&w=512&h=421&q=twitter%20logo&ved=2ahUKEwj4yriD2ur_AhUDgosKHZD8D3EQMygAegUIARDpAQ "twitter") [Connect on Twitter](https://twitter.com/Mhskarimi78)
+ ![Alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtIRng_MZEO2DGVnx-DpixTwyLLEbr3GDMHcUFpkqDr6oCrne_zJS-Y1Drjy8SBbkaU_Y&usqp=CAU "twitter") [Connect on Twitter](https://twitter.com/Mhskarimi78)
 
  ![Alt text](public/telegram.png "telegram") [Connect on Telegram](https://t.me/Mhskarimi)
 
