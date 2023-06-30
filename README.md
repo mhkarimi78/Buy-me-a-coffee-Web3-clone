@@ -27,6 +27,6 @@ If you are interested in either of the topics or building in similar skills, con
  
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtIRng_MZEO2DGVnx-DpixTwyLLEbr3GDMHcUFpkqDr6oCrne_zJS-Y1Drjy8SBbkaU_Y&usqp=CAU" alt="twitter" style="height: 20px; width:20px;"/> [Connect on Twitter](https://twitter.com/Mhskarimi78)
 
- <img src="" alt="telegram" style="height: 20px; width:20px;"/> [Connect on Telegram](https://t.me/Mhskarimi)
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0T-m57Ex86--4Y72XJd7ezcdFqk6GL_lAp7TbZYntJ5B0-jl54mVRTObQuELRCZBwarM&usqp=CAU" alt="telegram" style="height: 20px; width:20px;"/> [Connect on Telegram](https://t.me/Mhskarimi)
 
- <img src="" alt="website" style="height: 20px; width:20px;"/> [Connect on my website](https://port-ten-sage.vercel.app/)
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr8gC6zvaAjXMKrvszFwDn9ZELL4YZeBGK_4WaU8alXUX0DDWIJDS3koRLHUSm1n-DMQk&usqp=CAU" alt="website" style="height: 20px; width:20px;"/> [Connect on my website](https://port-ten-sage.vercel.app/)
