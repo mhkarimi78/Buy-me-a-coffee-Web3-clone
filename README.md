@@ -21,7 +21,7 @@ Hello everyone, myself **Mahsa Karimi** from Iran. I am a Full Stack WEB3 develo
 
 If you are interested in either of the topics or building in similar skills, connect with me below:-
 
- ![Alt text](public/github.png "github") [Connect on Github](https://github.com/mhkarimi78)
+ ![Alt text](https://www.github.com/mhkarimi78 "github") [Connect on Github](https://github.com/mhkarimi78)
 
  ![Alt text](public/linkedin.png "linkedin") [Connect on Linkedin](https://www.linkedin.com/in/mahsa-karimi-61114b1b9/)
 
