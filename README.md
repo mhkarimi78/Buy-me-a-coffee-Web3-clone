@@ -23,7 +23,7 @@ If you are interested in either of the topics or building in similar skills, con
 
  ![Alt text](https://www.github.com/mhkarimi78) [Connect on Github](https://github.com/mhkarimi78)
 
- ![Alt text]( "linkedin") [Connect on Linkedin](https://www.linkedin.com/in/mahsa-karimi-61114b1b9/)
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvArBsL3q-mYGcZu2JGAch1aGPclnz488q-w&usqp=CAU" alt="linkedin" style="height: 20px; width:20px;"/> [Connect on Linkedin](https://www.linkedin.com/in/mahsa-karimi-61114b1b9/)
  
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtIRng_MZEO2DGVnx-DpixTwyLLEbr3GDMHcUFpkqDr6oCrne_zJS-Y1Drjy8SBbkaU_Y&usqp=CAU" alt="twitter" style="height: 20px; width:20px;"/> [Connect on Twitter](https://twitter.com/Mhskarimi78)
 
