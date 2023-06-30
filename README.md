@@ -11,7 +11,7 @@ After connecting our Wallet:
 
 # About the Developer
 
-Hello everyone, myself **Mahsa Karimi** from Iran. I am a Full Stack WEB3 developer. I talk about WEB3, React and Javascript.
+Hello everyone, myself **Mahsa Karimi** from Iran. I am a Full Stack WEB3 developer. I talk about WEB3, React and Solidity.
 
 **Currently Learning and Building in React.js, Next.js, Solidity, Hardhat, Ethers.js, React Native, Tailwind, Html, CSS. etc.**
 
@@ -21,12 +21,12 @@ Hello everyone, myself **Mahsa Karimi** from Iran. I am a Full Stack WEB3 develo
 
 If you are interested in either of the topics or building in similar skills, connect with me below:-
 
- ![Alt text](https://www.github.com/mhkarimi78) [Connect on Github](https://github.com/mhkarimi78)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSevjLMoY69RrmdOeKZONLsRySpvdkEwP-SaraZ3hc_8WFS0eR1ALIIL9xuP2_nWbRnawY&usqp=CAU" alt="github" style="height: 20px; width:20px;"/> [Connect on Github](https://github.com/mhkarimi78)
 
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvArBsL3q-mYGcZu2JGAch1aGPclnz488q-w&usqp=CAU" alt="linkedin" style="height: 20px; width:20px;"/> [Connect on Linkedin](https://www.linkedin.com/in/mahsa-karimi-61114b1b9/)
  
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtIRng_MZEO2DGVnx-DpixTwyLLEbr3GDMHcUFpkqDr6oCrne_zJS-Y1Drjy8SBbkaU_Y&usqp=CAU" alt="twitter" style="height: 20px; width:20px;"/> [Connect on Twitter](https://twitter.com/Mhskarimi78)
 
- ![Alt text](public/telegram.png "telegram") [Connect on Telegram](https://t.me/Mhskarimi)
+ <img src="" alt="telegram" style="height: 20px; width:20px;"/> [Connect on Telegram](https://t.me/Mhskarimi)
 
- ![Alt text](public/dev.png "dev") [Connect on my website](https://port-ten-sage.vercel.app/)
+ <img src="" alt="website" style="height: 20px; width:20px;"/> [Connect on my website](https://port-ten-sage.vercel.app/)
